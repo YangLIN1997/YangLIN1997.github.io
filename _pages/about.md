@@ -15,6 +15,7 @@ My current focus is on time series forecasting, sequence models, deep learning.
 Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
+<table width="100%">
 
 <!-- publication 1 -->
 {%  include publication.html 
@@ -73,6 +74,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	author_list="<b>Yang Lin</b>, Irena Koprinska, Mashud Rana"
 	published_in="International Conference on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021"
 %}	
+</table>
 
 
 ## Contact
