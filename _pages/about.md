@@ -13,16 +13,27 @@ My current focus is on time series forecasting, sequence models, deep learning.
 
 Publications
 ======
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<table width="100%">
+	<!-- publication 1 -->
+	{%  include publication.html 
+		url="https://arxiv.org/abs/2107.05790"
+		img_path="vip.png"
+		title="Visual Parser: Representing Part-whole Hierarchies with Transformers" 
+		author_list="<b><u>Shuyang Sun</u></b>*, Xiaoyu Yue*, Song Bai, Philip Torr"
+		code_url="https://github.com/kevin-ssy/ViP"
+		published_in="arXiv preprint arXiv:2107.05790"
+	%}	
+	<!-- publication 2 -->
+	{%  include publication.html 
+		url="#"
+		img_path="depla.png"
+		title="Aggregation with Feature Detectiong" 
+		author_list="<b><u>Shuyang Sun</u></b>, Xiaoyu Yue, Xiaojuan Qi, Wanli Ouyang, Victor Prisacariu, Philip Torr"
+		published_in="ICCV 2021"
+	%}	
+</table>
 
 
 ## Contact
