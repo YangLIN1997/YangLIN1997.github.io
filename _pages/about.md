@@ -53,7 +53,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	<b>Yang Lin</b>, Weidong Xiao<br> 
 	IEEE Transactions on Smart Grid, 2019<br> 
     </li>
-  <li><b>Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems
+  <li><b>Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems<b><br> 
 	<b>Yang Lin</b>, Harith R Wickramasinghe, Georgios Konstantinou<br> 
 	IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC), 2018<br> 
 	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/Paper1.pdf "> [PDF]</a>
