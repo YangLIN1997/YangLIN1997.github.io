@@ -18,12 +18,13 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 
 <!-- <table width="100%"> -->
 	<!-- publication 8 -->
-	{%  include publication.html 
+<!-- 	{%   -->
+	include publication.html 
 		url=""
 		title="SSDNet: State Space Decomposition Neural Network for Time Series Forecasting" 
 		author_list="<b>Yang Lin</b>, Irena Koprinska, Mashud Rana"
 		published_in="International Conference on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021"
-	%}
+<!-- 	%} -->
 	<!-- publication 7 -->
 	{%  include publication.html 
 		url=""
