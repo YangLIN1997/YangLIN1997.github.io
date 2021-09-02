@@ -23,11 +23,11 @@ Work experience
   
 Skills
 ======
+* Time series forecasting
 * Machine learning
 * Data science
   * SQL
   * Spark
-* Time series forecasting
 
 Publications
 ======
@@ -35,18 +35,21 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+* Tutor of 'ENGG1800 Introduction to Engineering Disciplines', 2018.
+* Tutor of 'COMP5318 Machine Learning and Data Mining', 2019.
+* Tutor of 'COMP5703: Information Technology Capstone Project', 2019.
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
