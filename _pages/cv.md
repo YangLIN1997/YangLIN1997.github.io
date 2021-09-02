@@ -82,7 +82,21 @@ Teaching
 * Tutor of 'ENGG1800 Introduction to Engineering Disciplines', 2018.
 * Tutor of 'COMP5318 Machine Learning and Data Mining', 2019.
 * Tutor of 'COMP5703: Information Technology Capstone Project', 2019.
-  
+
+Awards
+======
+* IEEE CIS Student Grant - WCCI, IEEE CIS, 2020
+* Data61 top-up scholarship - CSIRO, 2019
+* Research Training Program International Scholarship - University of Sydney, 2019.
+* NCACI Undergraduate Thesis Prize - Engineers Australia, 2019
+* The Australian Industry Group Prize in Electrical Engineering - University of Sydney, 2019.
+* Postgraduate High Honour Roll (Highest Mark in COMP5318) - University of Sydney, 2018.
+* Dean's List of Excellence in Academic Performance - University of Sydney, 2018.
+* The University Medal - University of Sydney, 2018.
+* 1st Prize in the Undergraduate Student Project Competition - IEEE Australia Council, 2018.
+* Dean's List of Excellence in Academic Performance - University of Sydney, 2017.
+* Taste of Research Summer Scholarships - University of New South Wales, 2017.
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
