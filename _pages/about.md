@@ -16,6 +16,17 @@ Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 
+<table width="100%">
+	<!-- publication 1 -->
+	{%  include publication.html 
+		url="https://arxiv.org/abs/2107.05790"
+		img_path="vip.png"
+		title="Visual Parser: Representing Part-whole Hierarchies with Transformers" 
+		author_list="<b><u>Shuyang Sun</u></b>*, Xiaoyu Yue*, Song Bai, Philip Torr"
+		code_url="https://github.com/kevin-ssy/ViP"
+		published_in="arXiv preprint arXiv:2107.05790"
+	%}	
+</table>
 
 
 ## Contact
