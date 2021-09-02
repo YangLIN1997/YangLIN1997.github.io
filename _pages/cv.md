@@ -29,8 +29,9 @@ Skills
 * Data science
   * SQL
   * Spark
-<!-- 
-Publications
+ 
+ 
+<!-- Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 <ol>
@@ -67,7 +68,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC), 2018<br> 
     </li>
 </ol> -->
-   
+  
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
