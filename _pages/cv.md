@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering (University Medal), University of Sydney, 07/2015 - 12/2018
+* Ph.D in Computer Science
+  * University of Sydney and CSIRO Data61
+  * Research Training Program Scholarship and Data61 top-up scholarship
+  * 03/2019
+* B.S. in Electrical Engineering , 07/2015 - 12/2018
+  * University of Sydney
   * Honours Class I and the University Medal
-* Ph.D in Computer Science, University of Sydney and CSIRO Data61, 03/2019
+  * 07/2015 - 12/2018
+
 
 Work experience
 ======
