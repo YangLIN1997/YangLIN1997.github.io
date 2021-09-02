@@ -18,20 +18,19 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 <table width="100%">
 	<!-- publication 1 -->
 	{%  include publication.html 
-		url="https://arxiv.org/abs/2107.05790"
-		img_path="vip.png"
-		title="Visual Parser: Representing Part-whole Hierarchies with Transformers" 
-		author_list="<b><u>Shuyang Sun</u></b>*, Xiaoyu Yue*, Song Bai, Philip Torr"
-		code_url="https://github.com/kevin-ssy/ViP"
-		published_in="arXiv preprint arXiv:2107.05790"
+		url=""
+		title=""Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems" 
+		author_list="<b>Yang Lin</b>, Harith R Wickramasinghe, Georgios Konstantinou"
+		code_url=""
+		published_in="IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC) 2018"
 	%}	
 	<!-- publication 2 -->
 	{%  include publication.html 
-		url="#"
-		img_path="depla.png"
-		title="Aggregation with Feature Detectiong" 
-		author_list="<b><u>Shuyang Sun</u></b>, Xiaoyu Yue, Xiaojuan Qi, Wanli Ouyang, Victor Prisacariu, Philip Torr"
-		published_in="ICCV 2021"
+		url=""
+		img_path=""
+		title="A"Novel Piecewise Linear Formation of Droop Strategy for DC Microgrid" 
+		author_list="<b>Yang Lin</b>, Weidong Xiao"
+		published_in="IEEE Transactions on Smart Grid 2019"
 	%}	
 </table>
 
