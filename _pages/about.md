@@ -32,7 +32,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
   <li><b>Temporal Convolutional Attention Neural Networks for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Joint Conference on Neural Networks (IJCNN), 2021<br> 
-	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/TCAN.pdf">[PDF]</a><br> 
+	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/TCAN.pdf"target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
 
     </li>
   <li><b>SpringNet: Transformer and Spring DTW for Solar Power Forecasting</b><br> 
