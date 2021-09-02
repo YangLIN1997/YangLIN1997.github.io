@@ -83,7 +83,7 @@ author:
   name             : "Yang Lin"
   avatar           : "download.png"
   bio              : ""
-  location         : "Nanjing, China"
+  location         : #"Nanjing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=T00NBYIAAAAJ&hl=en"
