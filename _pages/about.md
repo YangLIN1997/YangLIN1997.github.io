@@ -68,6 +68,8 @@ You can find my full publication list on [Google Scholar](https://scholar.google
     </li>
 </ol>
 
+## Academic Service
+Reviewer: ICONIP, ICANN, AAAI
 
 ## Contact
 Personal Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
