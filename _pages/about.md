@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year DPhil (PhD) student at School of Computer Science, University of Sydney (USYD) and CSIRO Data61, under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana). I received my B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). I was fortunate to work a Research Assistant  in 2017 with Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales. 
+I am a third-year DPhil (PhD) student at School of Computer Science, University of Sydney (USYD) and CSIRO Data61, under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana). I received my B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). I was fortunate to work a Research Assistant  in 2017 with Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales. <br>
 My current focus is on time series forecasting, sequence models, deep learning.
 
 Education
 ======
-* B.S. in Electrical Engineering (University Medal), University of Sydney, 07/2015 - 12/2018
+* B.S. in Electrical Engineering
+  * University of Sydney
   * Honours Class I and the University Medal
-* Ph.D in Computer Science, University of Sydney and CSIRO Data61, 03/2019
-
+  * 07/2015 - 12/2018
+  *
+* Ph.D in Computer Science
+  * University of Sydney and CSIRO Data61
+  * Research Training Program Scholarship and Data61 top-up scholarship
+  * 03/2019
+  
 Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
