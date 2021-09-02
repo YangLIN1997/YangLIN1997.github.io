@@ -47,7 +47,6 @@ author_profile: true
 <!-- Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
-
 <table width="100%">
 	<!-- publication 8 -->
 	{%  
