@@ -101,6 +101,11 @@ Awards
 * Dean's List of Excellence in Academic Performance - University of Sydney, 2017.
 * Taste of Research Summer Scholarships - University of New South Wales, 2017.
 
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
+## Academic Service
+Reviewer: ICONIP, ICANN, AAAI
+
+## Contact
+Personal Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
+
+Univ. Email: [ylin4015@uni.sydney.edu.au](mailto:ylin4015@uni.sydney.edu.au);
