@@ -22,3 +22,10 @@ Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+## Contact
+Personal Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
+
+Univ. Email: [ylin4015@uni.sydney.edu.au](mailto:ylin4015@uni.sydney.edu.au);
