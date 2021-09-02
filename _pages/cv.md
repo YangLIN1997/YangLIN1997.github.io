@@ -29,7 +29,7 @@ Skills
 * Data science
   * SQL
   * Spark
-
+<!-- 
 Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
@@ -66,7 +66,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	<b>Yang Lin</b>, Harith R Wickramasinghe, Georgios Konstantinou<br> 
 	IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC), 2018<br> 
     </li>
-</ol>
+</ol> -->
    
 <!-- Talks
 ======
