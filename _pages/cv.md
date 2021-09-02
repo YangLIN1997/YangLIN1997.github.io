@@ -102,9 +102,6 @@ Awards
 * Taste of Research Summer Scholarships - University of New South Wales, 2017.
 
 
-## Academic Service
-Reviewer: ICONIP, ICANN, AAAI
-
 ## Contact
 Personal Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
 
