@@ -32,25 +32,11 @@ Skills
 
 Publications
 ======
-<!--   <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-   -->
-   
-## Selected Publication
-You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
+  
 
-<table width="100%">
-	<!-- publication 1 -->
-	{%  include publication.html 
-		url="https://arxiv.org/abs/2107.05790"
-		img_path="download.png"
-		title="Vis" 
-		author_list="<b><u>Shn</u></b>*,"
-		published_in="ar0"
-	%}	
-
-</table>
    
    
    
