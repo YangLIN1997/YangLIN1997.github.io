@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Yang Lin"
 title_separator          : "-"
 name                     : &name "Yang"
 description              : &description "Yang Lin received the B.E. degree (University Medal) in electrical engineering from the University of Sydney, Australia, in 2019. He is currently pursuing the Ph.D. degree in computer science from the University of Sydney, Australia. His research interest includes time series forecasting, deep learning and knowledge distillation."
