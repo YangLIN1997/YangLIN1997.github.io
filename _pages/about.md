@@ -16,7 +16,26 @@ Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 <table width="100%">
-
+	
+		<!-- publication 7 -->
+	{%  include publication.html 
+		url="https://arxiv.org/pdf/1711.11152v1.pdf"
+		img_path="OFF.jpg"
+		title="Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition" 
+		author_list="<b><u>Shuyang Sun</u></b>, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang"
+		published_in="CVPR 2018"
+		code_url="https://github.com/kevin-ssy/Optical-Flow-Guided-Feature"
+		blog_post="https://kevin-ssy.github.io/off/"
+	%}
+	<!-- publication 8 -->
+	{%  include publication.html 
+		url="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Spindle_Net_Person_CVPR_2017_paper.pdf" 
+		img_path="spindlenet.png" 
+		title="Spindle Net: Person Re-identification with Human Body Region Guided Feature Decomposition and Fusion" 
+		author_list="Haiyu Zhao*, Maoqing Tian*, <b><u>Shuyang Sun</u></b>, Jing Shao, Junjie Yan, Shuai Yi, Xiaogang Wang, Xiaoou Tang, (* indicates equal contribution)" 
+		published_in="CVPR 2017" 
+	%}
+<!-- 
 <!-- publication 1 -->
 {%  include publication.html 
 	url=""
@@ -73,7 +92,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	title="SSDNet: State Space Decomposition Neural Network for Time Series Forecasting" 
 	author_list="<b>Yang Lin</b>, Irena Koprinska, Mashud Rana"
 	published_in="International Conference on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021"
-%}	
+%}	 -->
 </table>
 
 
