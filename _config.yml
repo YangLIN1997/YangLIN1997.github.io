@@ -58,10 +58,10 @@ yandex_site_verification :
 # Social Sharing
 # twitter:
 #   username               : &twitter
-facebook:
-  username               :
-  app_id                 : 
-  publisher              :
+# facebook:
+#   username               :
+#   app_id                 : 
+#   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "lin.yang.39589149/"
+  facebook         : #"lin.yang.39589149/"
   foursquare       :
   github           : "YangLIN1997/"
   google_plus      :
   keybase          :
-  instagram        : "yang_lin_1997/"
+  instagram        : #"yang_lin_1997/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
