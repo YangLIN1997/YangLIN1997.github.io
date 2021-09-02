@@ -13,14 +13,12 @@ My current focus is on time series forecasting, sequence models, deep learning.
 
 Education
 ======
-* Ph.D in Computer Science
+* Ph.D in Computer Science (03/2019 - )
   * University of Sydney and CSIRO Data61
   * Research Training Program Scholarship and Data61 top-up scholarship
-  * 03/2019
-* B.S. in Electrical Engineering
+* B.S. in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
   * Honours Class I and the University Medal
-  * 07/2015 - 12/2018
   
 Publications
 ======
