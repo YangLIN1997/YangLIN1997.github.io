@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering Honours (Electrical Engineering), University of Sydney, Jul. 2015 - Dec. 2018
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering (University Medal), University of Sydney, 07/2015 - 12/2018
+* Ph.D in Computer Science, University of Sydney, 03/2019
 
 Work experience
 ======
