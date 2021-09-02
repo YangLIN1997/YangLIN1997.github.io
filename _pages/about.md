@@ -16,7 +16,7 @@ Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 
-<table width="100%">
+<!-- <table width="100%"> -->
 	<!-- publication 8 -->
 	{%  include publication.html 
 		url=""
@@ -74,7 +74,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 		code_url=""
 		published_in="IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC) 2018"
 	%}		
-</table>
+<!-- </table> -->
 
 
 ## Contact
