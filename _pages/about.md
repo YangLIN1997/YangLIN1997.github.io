@@ -14,20 +14,3 @@ My current focus is on time series forecasting and deep learning.
 Publications
 ======
 
-<table width="100%">
-	<!-- publication 1 -->
-	{%  include publication.html 
-		url="https://arxiv.org/abs/2107.05790"
-		title="Visual Parser: Representing Part-whole Hierarchies with Transformers" 
-		author_list="<b><u>Shuyang Sun</u></b>*, Xiaoyu Yue*, Song Bai, Philip Torr"
-		code_url="https://github.com/kevin-ssy/ViP"
-		published_in="arXiv preprint arXiv:2107.05790"
-	%}	
-	<!-- publication 2 -->
-	{%  include publication.html 
-		url="#"
-		title="Aggregation with Feature Detectiong" 
-		author_list="<b><u>Shuyang Sun</u></b>, Xiaoyu Yue, Xiaojuan Qi, Wanli Ouyang, Victor Prisacariu, Philip Torr"
-		published_in="ICCV 2021"
-	%}	
-</table>
