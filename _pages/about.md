@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year DPhil (PhD) student at the School of Computer Science, University of Sydney (USYD) and CSIRO Data61, under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana). I received my B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). I was fortune to work as a Research Assistant in 2017 with Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales. <br>
-My current focus is on time series forecasting, sequence models, deep learning.
+I am a third-year DPhil (PhD) student at the School of Computer Science, University of Sydney (USYD) and CSIRO Data61, under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), and Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana). I received my B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). I also have experience as a research assistant supervised by Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou) and Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales in 2017. <br>
+My current research focus is on time series forecasting, sequence models, deep learning.
 
 Education
 ======
