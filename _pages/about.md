@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Lin"
+title: "林阳"
 excerpt: "University of Sydney and CSIRO"
 author_profile: true
 redirect_from: 
