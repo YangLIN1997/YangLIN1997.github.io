@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering (University Medal), University of Sydney, 07/2015 - 12/2018
+  * Honours Class I and the University Medal
 * Ph.D in Computer Science, University of Sydney and CSIRO Data61, 03/2019
 
 Work experience
