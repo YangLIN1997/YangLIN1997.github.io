@@ -18,7 +18,7 @@ Work experience
 ======
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
-  * Duties included: Warking on the topic 'Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems'
+  * Duties included: Working on the topic 'Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems'
   * Supervisor: Dr Georgios Konstantinou, Dr Harith R. Wickramasinghe
   
 Skills
