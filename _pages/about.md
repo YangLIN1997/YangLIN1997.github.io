@@ -20,11 +20,12 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	<!-- publication 1 -->
 	{%  include publication.html 
 		url=""
-		title="Visual Parser: Representing Part-whole Hierarchies with Transformers" 
-		author_list="<b><u>Shuyang Sun</u></b>*, Xiaoyu Yue*, Song Bai, Philip Torr"
-		code_url="https://github.com/kevin-ssy/ViP"
-		published_in="arXiv preprint arXiv:2107.05790"
+		title="Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems" 
+		author_list="<b>Yang Lin</b>, Harith R Wickramasinghe, Georgios Konstantinou"
+		code_url=""
+		published_in="IEEE PES Asia-Pacic Power and Energy Engineering Conference (APPEEC) 2018"
 	%}	
+	
 </table>
 
 
