@@ -34,9 +34,9 @@ Publications
 ======
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
 <ol>
-  <li><br> SSDNet: State Space Decomposition Neural Network for Time Series Forecasting<br/>
-<br> <b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br/>
-<br> International Conference on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021<br/>
+  <li>SSDNet: State Space Decomposition Neural Network for Time Series Forecasting<br> 
+<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
+International Conference on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021<br> 
     </li>
   <li>fdgxhence on Data Mining (ICDM) (regular paper, acceptance rate of 9.9%) 2021
 	</li>
