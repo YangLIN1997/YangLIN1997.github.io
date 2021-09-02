@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yang Lin"
-excerpt: "About me"
+title: "Yang Lin 林阳"
+excerpt: "Yang Lin, University of Sydney"
 author_profile: true
 redirect_from: 
   - /about/
