@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "林阳"
+title: ""
 excerpt: "University of Sydney and CSIRO"
 author_profile: true
 redirect_from: 
