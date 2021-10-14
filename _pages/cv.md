@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science (03/2019 - )
-  * University of Sydney and CSIRO Data61
+  * University of Sydney
   * Research Training Program Scholarship and Data61 top-up scholarship
 * B.S. in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
