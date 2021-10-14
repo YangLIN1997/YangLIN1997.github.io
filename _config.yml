@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization"
-  name                   : University of Sydney and CSIRO
+  name                   : University of Sydney
   links: # An array of links to social media profiles
 
 
