@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year DPhil (PhD) student at the School of Computer Science, University of Sydney (USYD), under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html) and Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana) and Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman) from Commonwealth Scientific and Industrial Research Organization (CSIRO) Data61. I completed the B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). Previously, I worked as a research assistant supervised by Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou) and Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales in 2017. <br>
+I am a third-year DPhil (PhD) student at the School of Computer Science, University of Sydney (USYD), under the supervision of Professor [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html).
+I am holding a PhD studentship funded by Commonwealth Scientific and Industrial Research Organization (CSIRO) Data61, under the supervision of Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana) and Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman) since July 2019. 
+I completed the B.Eng. degree in 2018 at the School of Electrical Engineering, University of Sydney, supervised by Professor [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html). Previously, I worked as a research assistant supervised by Professor [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou) and Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe) at University of New South Wales in 2017. <br>
 My current research focus is on time series forecasting, knowledge distillation, sequence models, deep learning.
 
 Education
 ======
-* Ph.D in Computer Science (03/2019 - )
+* Ph.D in Computer Science (03/2019 - 2022)
   * University of Sydney
   * Research Training Program Scholarship and CSIRO Data61 top-up scholarship
 * B.S. in Electrical Engineering (07/2015 - 12/2018)
