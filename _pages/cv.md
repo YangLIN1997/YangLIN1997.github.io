@@ -11,19 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science (03/2019 - )
-  * University of Sydney
+* Ph.D in Computer Science (03/2019 - 03/2022)
+  * University of Sydney and CSIRO Data61
   * Research Training Program Scholarship and Data61 top-up scholarship
+  * Supervisor: Dr [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana), Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman)
+  
 * B.S. in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
   * Honours Class I and the University Medal
+  * Supervisor: Dr [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html)
 
 Work experience
 ======
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
   * Duties included: Working on the topic 'Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems'
-  * Supervisor: Dr Georgios Konstantinou, Dr Harith R. Wickramasinghe
+  * Supervisor: Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
   
 Skills
 ======
