@@ -14,7 +14,7 @@ I am comfortable with popular data science tools for machine learning and data m
 Education
 ======
 * Ph.D in Computer Science (03/2019 - 03/2022)
-  * University of Sydney
+  * University of Sydney and CSIRO Data61
   * Research Training Program Scholarship and CSIRO Data61 top-up scholarship
 * B.S. in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
