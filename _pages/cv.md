@@ -92,17 +92,23 @@ Teaching
 
 Awards
 ======
-* IEEE CIS Student Grant - WCCI, IEEE CIS, 2020
-* Data61 top-up scholarship - CSIRO, 2019
-* Research Training Program International Scholarship - University of Sydney, 2019.
-* NCACI Undergraduate Thesis Prize - Engineers Australia, 2019
-* The Australian Industry Group Prize in Electrical Engineering - University of Sydney, 2019.
-* Postgraduate High Honour Roll (Highest Mark in COMP5318) - University of Sydney, 2018.
-* Dean's List of Excellence in Academic Performance - University of Sydney, 2018.
-* The University Medal - University of Sydney, 2018.
-* 1st Prize in the Undergraduate Student Project Competition - IEEE Australia Council, 2018.
-* Dean's List of Excellence in Academic Performance - University of Sydney, 2017.
-* Taste of Research Summer Scholarships - University of New South Wales, 2017.
+* Postgraduate Research Support Scheme (AUD 7K) -- USYD, 2019 - 2021
+* IEEE CIS Student Grant for IJCNN -- IEEE CIS, 2020
+* Data61 top-up scholarship (AUD 10K p.a.) -- CSIRO, 2019 - 2022
+* Research Training Program International Scholarship (AUD 27K p.a.) -- USYD, 2019 - 2022
+* NCACI Undergraduate Thesis Prize (AUD 1K) -- Engineers Australia, 2019
+* The Australian Industry Group Prize in Electrical Engineering (AUD 2.5K) -- USYD, 2019
+* Postgraduate High Honour Roll (Highest Mark in COMP5318) -- USYD, 2018
+* Dean's List of Excellence in Academic Performance -- USYD, 2017 and 2018
+* The University Medal -- USYD, 2018
+* $1st$ Prize in the Undergraduate Student Project Competition (AUD 0.5K) -- IEEE Aus, 2018
+* Taste of Research Summer Scholarships (AUD 6K) -- UNSW, 2017
+
+
+Academic Service
+======
+* Reviewer: AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
+* Membership: Engineers Australia Electrical Engineer; IEEE Student Member
 
 
 ## Contact
