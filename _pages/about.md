@@ -29,7 +29,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 <ol>
   <li><b>SSDNet: State Space Decomposition Neural Network for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
-	International Conference on Data Mining (ICDM) (regular paper, acceptance rate: 9.9%), 2021<br> 
+	International Conference on Data Mining (ICDM) (regular paper), 2021<br> 
 	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/SSDNet.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
     </li>
   <li><b>Temporal Convolutional Attention Neural Networks for Time Series Forecasting</b><br> 
