@@ -30,11 +30,11 @@ Work experience
   
 Skills
 ======
-* Time series forecasting
-* Machine learning
-* Data science
-  * SQL
-  * Spark
+* Languages: (Proficient) Python; (Familiar) R, C, Java, MATLAB
+* Packages: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, PySpark
+* Tools: SQL, Tableau, Spark, Git
+* Cloud: Amazon Web Service, Artemis HPC
+* OS: Linux, Windows
  
  
 <!-- Publications
