@@ -24,7 +24,7 @@ Education
   
 Publications
 ======
-You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=PoAvGRMAAAAJ).
+You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=T00NBYIAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate).
 
 <ol>
   <li><b>SSDNet: State Space Decomposition Neural Network for Time Series Forecasting</b><br> 
