@@ -16,9 +16,8 @@ I am comfortable with popular data science tools for machine learning and data m
 Education
 ======
 * PhD in Computer Science (03/2019 - 03/2022)
-  * Thesis: Deep Learning for Time Series Forecasting 
   * University of Sydney and CSIRO Data61
-  * Research Training Program Scholarship and CSIRO Data61 top-up scholarship
+  * Thesis: Deep Learning for Time Series Forecasting 
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
   * Honours Class I and the University Medal
@@ -71,6 +70,5 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 </ol>
 
 ## Contact
-Personal Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
+Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
 
-Univ. Email: [ylin4015@uni.sydney.edu.au](mailto:ylin4015@uni.sydney.edu.au);
