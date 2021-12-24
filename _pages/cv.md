@@ -26,7 +26,7 @@ Work experience
 ======
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
-  * Duties included: Working on the topic 'Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems'
+  * Developed and tested a hybrid circuit breaker controller in a DSP board with the RTDS simulation.
   * Supervisor: Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
   
 Skills
