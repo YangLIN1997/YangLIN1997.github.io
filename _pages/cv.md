@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Computer Science (03/2019 - 03/2022)
   * University of Sydney and CSIRO Data61
+  * Thesis: Deep Learning for Time Series Forecasting
   * Research Training Program Scholarship and Data61 top-up scholarship
   * Supervisor: Dr [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html) (USYD supervisor), Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana) (CSIRO supervisor), Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman) (CSIRO mentor)
   
@@ -33,7 +34,7 @@ Skills
 * Languages: (Proficient) Python; (Familiar) R, C, Java, MATLAB
 * Packages: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, PySpark
 * Tools: SQL, Tableau, Spark, Git
-* Cloud: Amazon Web Service, Artemis HPC
+* Cloud: AWS, Artemis HPC
 * OS: Linux, Windows
  
  
