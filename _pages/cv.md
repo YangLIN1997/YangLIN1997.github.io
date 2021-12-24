@@ -105,12 +105,10 @@ Awards
 * $1st$ Prize in the Undergraduate Student Project Competition (AUD 0.5K) -- IEEE Aus, 2018
 * Taste of Research Summer Scholarships (AUD 6K) -- UNSW, 2017
 
-
 Academic Service
 ======
 * Reviewer: AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
 * Membership: Engineers Australia Electrical Engineer; IEEE Student Member
-
 
 ## Contact
 Email: [linyang1997@yahoo.com.au](linyang1997@yahoo.com.au);
