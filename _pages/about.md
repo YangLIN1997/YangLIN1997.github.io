@@ -43,13 +43,12 @@ You can find my full publication list on [Google Scholar](https://scholar.google
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Conference on Neural Information Processing (ICONIP), 2020<br> 
 	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/SpringNet.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-	<a href="https://github.com/YangLIN1997/TCAN-IJCNN2021" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
+	<a href="https://github.com/YangLIN1997/SpringNet-ICONIP2019" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
     </li>
   <li><b>Solar Power Forecasting Based on Pattern Sequence Similarity and Meta-learning</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Conference on Artificial Neural Networks (ICANN), 2020<br> 
-	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/PSF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
-	<a href="https://github.com/YangLIN1997/SpringNet-ICONIP2019" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
+	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/PSF.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
     </li>
   <li><b>Temporal Convolutional Neural Networks for Solar Power Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
