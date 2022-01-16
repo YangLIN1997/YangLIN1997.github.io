@@ -15,7 +15,7 @@ Education
   * University of Sydney and CSIRO Data61
   * Thesis: Deep Learning for Time Series Forecasting
   * Research Training Program Scholarship and Data61 top-up scholarship
-  * Supervisor: Dr [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html) (USYD supervisor), Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana) (CSIRO supervisor), Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman) (CSIRO mentor)
+  * Supervisor: Dr [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana), Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman)
   
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
