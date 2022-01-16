@@ -63,7 +63,8 @@ You can find my full publication list on [Google Scholar](https://scholar.google
   <li><b>Novel Piecewise Linear Formation of Droop Strategy for DC Microgrid</b><br> 
 	<b>Yang Lin</b>, Weidong Xiao<br> 
 	IEEE Transactions on Smart Grid, 2019<br> 
-	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/DCMG.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/DCMG.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+	<a href="https://github.com/YangLIN1997/Improved-Control-For-DC-Microgrid" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
     </li>
   <li><b>Hardware-in-the-loop Implementation of a Hybrid Circuit Breaker Controller for MMC-based HVDC Systems</b><br> 
 	<b>Yang Lin</b>, Harith R Wickramasinghe, Georgios Konstantinou<br> 
