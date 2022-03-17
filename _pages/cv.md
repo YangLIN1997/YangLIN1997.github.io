@@ -15,26 +15,23 @@ Education
   * University of Sydney and CSIRO Data61
   * Thesis: Deep Learning for Time Series Forecasting
   * Research Training Program Scholarship and Data61 top-up scholarship
-  * Supervisor: Dr [Irena Koprinska](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/irena-koprinska.html), Dr [Mashud Rana](https://people.csiro.au/r/m/mdmashud-rana), Dr [Ashfaqur Rahman](https://people.csiro.au/R/A/Ashfaqur-Rahman)
   
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
   * Honours Class I and the University Medal
-  * Supervisor: Dr [Weidong Xiao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/weidong-xiao.html)
 
 Work experience
 ======
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
-  * Developed and tested a hybrid circuit breaker controller in a DSP board with the RTDS simulation.
-  * Supervisor: Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
+  * Developed and tested a hybrid circuit breaker controller in a DSP board with the RTDS simulation, under the supervision of Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
   
 Skills
 ======
 * Languages: (Proficient) Python; (Familiar) R, C, Java, MATLAB
 * Packages: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, PySpark
 * Tools: SQL, Tableau, Spark, Git
-* Cloud: AWS, Artemis HPC
+* Cloud: AWS EC2, Artemis HPC
 * OS: Linux, Windows
  
  
