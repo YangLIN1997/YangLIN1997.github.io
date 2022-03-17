@@ -7,16 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student with expertise in data mining and machine learning, at University of Sydney and CSIRO Data61. I conducted research on large scale time series forecasting using real-world data sets and improved the accuracy, speed and interpretability of forecasting models. 
-
-I completed my BEng degree with the University Medal in Electrical Engineering at University of Sydney in 2018. Previously, I worked as a research assistant at University of New South Wales in 2017. 
-
-I am comfortable with popular data science tools for machine learning and data mining such as Python, R, SQL and Tableau. My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
+I am a final-year PhD student with expertise in data mining and machine learning at University of Sydney. I conducted research on time series forecasting. My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
 
 Education
 ======
-* PhD in Computer Science (03/2019 - 03/2022)
-  * University of Sydney and CSIRO Data61
+* PhD in Computer Science (03/2019 - )
+  * University of Sydney
   * Thesis: Deep Learning for Time Series Forecasting 
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
