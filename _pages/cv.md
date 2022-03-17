@@ -14,7 +14,6 @@ Education
 * PhD in Computer Science (03/2019 - )
   * University of Sydney
   * Thesis: Deep Learning for Time Series Forecasting
-  * Research Training Program Scholarship and Data61 top-up scholarship
   
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
   * University of Sydney
