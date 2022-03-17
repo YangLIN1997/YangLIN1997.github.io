@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science (03/2019 - 03/2022)
-  * University of Sydney and CSIRO Data61
+  * University of Sydney
   * Thesis: Deep Learning for Time Series Forecasting
   * Research Training Program Scholarship and Data61 top-up scholarship
   
