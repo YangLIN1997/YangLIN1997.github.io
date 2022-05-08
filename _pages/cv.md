@@ -103,7 +103,7 @@ Awards
 
 Academic Service
 ======
-* Reviewer: AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
+* Reviewer: Pattern Recognition; AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
 * Membership: Engineers Australia Electrical Engineer; IEEE Student Member
 
 ## Contact
