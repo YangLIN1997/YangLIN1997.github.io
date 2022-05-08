@@ -30,7 +30,7 @@ Skills
 * Languages: (Proficient) Python; (Familiar) R, C, Java, MATLAB
 * Packages: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, PySpark
 * Tools: SQL, Tableau, Spark, Git
-* Cloud: AWS EC2, Artemis HPC
+* Cloud: Aure ML Studio, GCP AI Platform, AWS EC2, Artemis HPC
 * OS: Linux, Windows
  
  
