@@ -29,8 +29,8 @@ Skills
 ======
 * Languages: (Proficient) Python; (Familiar) R, C, Java, MATLAB
 * Packages: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, Matplotlib, PySpark
-* Tools: SQL, Tableau, Spark, Git
-* Cloud: Aure ML Studio, GCP AI Platform, AWS EC2, Artemis HPC
+* Tools: SQL, Tableau, Databricks, Spark, Git
+* Cloud: Aure ML Studio, AWS, GCP AI Platform, HPC
 * OS: Linux, Windows
  
  
@@ -103,7 +103,7 @@ Awards
 
 Academic Service
 ======
-* Reviewer: Pattern Recognition; AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
+* Reviewer: Pattern Recognition; Neural Networks; AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020
 * Membership: Engineers Australia Electrical Engineer; IEEE Student Member
 
 ## Contact
