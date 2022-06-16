@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science (03/2019 - )
+* Ph.D. in Computer Science (03/2019 - 06/2022)
   * University of Sydney
   * Thesis: Deep Learning for Time Series Forecasting
   
