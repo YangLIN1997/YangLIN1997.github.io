@@ -104,7 +104,7 @@ Awards
 Academic Service
 ======
 * Journal Review: Pattern Recognition; Neural Networks; Expert Systems with Applications; International Journal of Electrical Power & Energy Systems
-* Conference Review: AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020; ICONIP 2019
+* Conference Review: AAAI 2023; AAAI 2022; PAKDD 2022; ICONIP 2020; ICANN 2020; ICONIP 2019
 * Membership: Engineers Australia Electrical Engineer; IEEE Student Member
 
 ## Contact
