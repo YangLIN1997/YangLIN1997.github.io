@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student with expertise in data mining and machine learning at University of Sydney. I conducted research on time series forecasting. My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
+I am a PhD graduate with expertise in data mining and machine learning at University of Sydney. I conducted research on time series forecasting. My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
 
 Education
 ======
-* PhD in Computer Science (03/2019 - )
+* PhD in Computer Science (03/2019 - 06/2022)
   * University of Sydney
   * Thesis: Deep Learning for Time Series Forecasting 
 * BEng (Hons) in Electrical Engineering (07/2015 - 12/2018)
