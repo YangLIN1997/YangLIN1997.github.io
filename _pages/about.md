@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD graduate with expertise in data mining and machine learning at University of Sydney. I conducted research on time series forecasting. My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
+Deep learning researcher at the University of New South Wales’ City Futures Research Centre. 
+I conducted research on time series forecasting and Natural Language Processing (NLP). My current research focus is on time series forecasting, knowledge distillation, sequence models and deep learning.
 
 Education
 ======
