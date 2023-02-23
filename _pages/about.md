@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Postdoc Researcher"
+title: "Bio"
 excerpt: "University of New South Wales City Futures Research Centre"
 author_profile: true
 redirect_from: 
