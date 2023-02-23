@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+* 06/2022-ongoing: Research Associate (Postdoc)
+  * University of New South Wales
+* 02/2022-06/2022: Associate Consultant (Machine Learning Engineer)
+  * Servian
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
   * Developed and tested a hybrid circuit breaker controller in a DSP board with the RTDS simulation, under the supervision of Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
