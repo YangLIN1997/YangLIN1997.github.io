@@ -23,6 +23,7 @@ Work experience
 ======
 * 06/2022-ongoing: Research Associate (Postdoc)
   * University of New South Wales
+  * Working on Urban Data Science projects, under the supervision of Professor [Christopher Pettit](https://cityfutures.ada.unsw.edu.au/about-us/our-profiles/christopher-pettit/) and Dr Serryn Eagleson. 
 * 02/2022-06/2022: Associate Consultant (Machine Learning Engineer)
   * Servian
 * 11/2017-04/2018: Research Assistant
