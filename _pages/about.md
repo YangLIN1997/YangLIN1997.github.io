@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Postdoc researcher at the University of New South Wales’ City Futures Research Centre. 
-I conducted research on time series forecasting and Natural Language Processing. My current research focus is on time series forecasting, knowledge distillation, zero-shot learning, sequence models and deep learning.
+Research fellow at the University of New South Wales’ City Futures Research Centre. He has been involved in several research and industry-based projects that focus on developing machine learning and deep learning models for time series analytics and Natural Language Processing. 
+His research interests include probabilistic time series forecasting, long-term time series forecasting and anomaly detection. 
 
 Education
 ======
