@@ -19,13 +19,13 @@ Education
   * University of Sydney
   * Honours Class I and the University Medal
 
-Work experience
+Research Experience
 ======
-* 06/2022-ongoing: Research Associate (Postdoc)
+* 06/2022-ongoing: Postdoc and Adjunct Lecturer
   * University of New South Wales
-  * Working on Urban Data Science projects, under the supervision of Professor [Christopher Pettit](https://cityfutures.ada.unsw.edu.au/about-us/our-profiles/christopher-pettit/) and Dr Serryn Eagleson. 
-* 02/2022-06/2022: Associate Consultant (Machine Learning Engineer)
-  * Servian
+  * Working on R&D projects in Urban Science.
+  * Supervising a master student in collaboration with University of California, Los Angeles.
+ 
 * 11/2017-04/2018: Research Assistant
   * University of New South Wales
   * Developed and tested a hybrid circuit breaker controller in a DSP board with the RTDS simulation, under the supervision of Dr [Georgios Konstantinou](https://research.unsw.edu.au/people/dr-georgios-konstantinou), Dr [Harith R. Wickramasinghe](https://www.unsw.edu.au/engineering/our-people/harith-wickramasinghe)
