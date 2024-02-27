@@ -51,7 +51,6 @@ author_profile: true
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana, Alicia Troncoso<br> 
 	International Conference on Neural Information Processing (ICONIP), 2019<br> 
 	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/PSNN.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
-
     </li>
   <li><b>Novel Piecewise Linear Formation of Droop Strategy for DC Microgrid</b><br> 
 	<b>Yang Lin</b>, Weidong Xiao<br> 
