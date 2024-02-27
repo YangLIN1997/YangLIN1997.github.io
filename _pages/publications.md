@@ -10,6 +10,16 @@ author_profile: true
 {% endif %}
 
 <ol>
+  <li><b>Progressive neural network for multi-horizon time series forecasting</b><br> 
+	<b>Yang Lin</b><br> 
+	Information Sciences, 2024<br> 
+	<a href="https://arxiv.org/pdf/2310.19322.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+    </li>
+  <li><b>AMLNet: Adversarial Mutual Learning Neural Network for Non-AutoRegressive Multi-Horizon Time Series Forecasting</b><br> 
+	<b>Yang Lin</b><br> 
+	International Conference on Data Science and Advanced Analytics (DSAA), 2023<br> 
+	<a href="https://arxiv.org/pdf/2310.19289.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+    </li>
   <li><b>SSDNet: State Space Decomposition Neural Network for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Conference on Data Mining (ICDM) (regular paper), 2021<br> 
@@ -19,7 +29,8 @@ author_profile: true
   <li><b>Temporal Convolutional Attention Neural Networks for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Joint Conference on Neural Networks (IJCNN), 2021<br> 
-	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/TCAN.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/TCAN.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+	<a href="https://github.com/YangLIN1997/TCAN-IJCNN2021" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
     </li>
   <li><b>SpringNet: Transformer and Spring DTW for Solar Power Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
