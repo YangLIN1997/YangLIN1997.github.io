@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Research fellow at the University of New South Wales’ City Futures Research Centre. He has been involved in several research and industry-based projects that focus on developing machine learning and deep learning models for time series analytics and Natural Language Processing. 
+Research fellow at the University of New South Wales’ City Futures Research Centre. He has been involved in several research and industry-based projects that focus on developing machine learning and deep learning models for time series modelling and Natural Language Processing. 
 His research interests include probabilistic time series forecasting, long-term time series forecasting and anomaly detection. 
 
 Education
