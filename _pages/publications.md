@@ -13,7 +13,8 @@ author_profile: true
   <li><b>SSDNet: State Space Decomposition Neural Network for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
 	International Conference on Data Mining (ICDM) (regular paper), 2021<br> 
-	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/SSDNet.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+	<a href="https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/SSDNet.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a>
+	<a href="[https://github.com/YangLIN1997/YangLIN1997.github.io/blob/master/files/SSDNet.pdf](https://github.com/YangLIN1997/SSDNet-ICDM2021)" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
     </li>
   <li><b>Temporal Convolutional Attention Neural Networks for Time Series Forecasting</b><br> 
 	<b>Yang Lin</b>, Irena Koprinska, Mashud Rana<br> 
