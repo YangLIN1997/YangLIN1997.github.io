@@ -27,7 +27,7 @@ You can find my full publication list on [Google Scholar](https://scholar.google
   <li><b>Progressive neural network for multi-horizon time series forecasting</b><br> 
 	<b>Yang Lin</b><br> 
 	Information Sciences, 2024<br> 
-	<a href="https://arxiv.org/pdf/2310.19322.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> 
+	<a href="https://arxiv.org/pdf/2310.19322.pdf" target="_blank" rel="noopener noreferrer">[PDF]</a><br> <a href="https://github.com/YangLIN1997/Progressive-neural-network-for-multi-horizon-time-series-forecasting" target="_blank" rel="noopener noreferrer">[Code]</a><br> 
     </li>
   <li><b>AMLNet: Adversarial Mutual Learning Neural Network for Non-AutoRegressive Multi-Horizon Time Series Forecasting</b><br> 
 	<b>Yang Lin</b><br> 
